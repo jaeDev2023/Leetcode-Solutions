@@ -1,5 +1,8 @@
-// 238. Product of Array Except Self
+# 238. Product of Array Except Self
+https://leetcode.com/problems/product-of-array-except-self/description/
 
+## Algorithm
+`````
 /**
  * @param {number[]} nums
  * @return {number[]}
@@ -32,3 +35,4 @@ var productExceptSelf = function(nums) {
     return solution
     
 };
+`````
