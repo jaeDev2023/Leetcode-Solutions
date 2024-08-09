@@ -1,5 +1,6 @@
 # 121: Best Time to Buy and Sell Stock
 
+## Algorithm
 `````
 /**
  * @param {number[]} prices
@@ -20,3 +21,6 @@ var maxProfit = function(prices) {
 };
 
 `````
+## Space-Time Complexity
+### Time complexity: O(n)
+### Space Complexity: O(1)
