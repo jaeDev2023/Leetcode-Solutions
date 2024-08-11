@@ -2,6 +2,7 @@
 
 ## https://leetcode.com/problems/maximum-subarray/description/
 
+## Algorithm
 `````
 /**
  * @param {number[]} nums
