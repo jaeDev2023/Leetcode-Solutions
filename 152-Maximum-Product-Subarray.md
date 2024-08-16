@@ -31,7 +31,7 @@ Constraints:
 
 
 ## Algorithm
-`````
+`````javascript
 /**
  * @param {number[]} nums
  * @return {number}
