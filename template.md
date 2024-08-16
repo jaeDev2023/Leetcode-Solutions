@@ -7,7 +7,7 @@ Put the rules for the puzzle here.
 
 
 ## Algorithm
-`````
+`````LANGUAGE(javascript) for example
 dot dot dot
 `````
 ## Algorithm Explanation
