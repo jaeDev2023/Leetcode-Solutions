@@ -9,7 +9,7 @@ with the largest sum, and return its sum.
 
 
 ## Algorithm
-`````
+`````javascript
 /**
  * @param {number[]} nums
  * @return {number}
