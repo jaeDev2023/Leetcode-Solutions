@@ -13,7 +13,7 @@ You must write an algorithm with O(log n) runtime complexity.
 
 
 ## Algorithm
-`````
+`````javascript
 /**
  * @param {number[]} nums
  * @param {number} target
