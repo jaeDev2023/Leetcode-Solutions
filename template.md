@@ -7,9 +7,9 @@ Put the rules for the puzzle here.
 
 
 ## Algorithm
-`````LANGUAGE(javascript) for example
+```LANGUAGE(javascript) for example
 dot dot dot
-`````
+```
 ## Algorithm Explanation
 Explain what's going on with the algorithm.
 You can have multiple Algorithm and explanation pairs in the description!
