@@ -33,7 +33,7 @@ Constraints:
     1 <= k <= nums.length
 
 ## Algorithm
-```LANGUAGEjavascript 
+```javascript 
 /**
  * @param {number[]} nums
  * @param {number} k
